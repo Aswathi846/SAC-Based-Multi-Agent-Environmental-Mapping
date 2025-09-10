@@ -17,7 +17,7 @@ This research addresses a critical gap in autonomous environmental monitoring: t
 
 4. Hyperparameter Optimization: Integrates the Optuna framework for systematic and efficient hyperparameter tuning.
 
-5. Comprehensive Evaluation: Measures performance using a suite of metrics, including Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² Score, to assess map reconstruction quality.
+5. Comprehensive Evaluation: Measures performance using a suite of metrics, including Mean Squared Error (MSE), Cumulative Mean Squared Error, Mean Absolute Error (MAE), and R² Score, to assess map reconstruction quality.
 
 # Acknowledgement
 This work was supervised by Dr. Adan Lopez-Santander at the University of Plymouth.
