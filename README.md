@@ -18,3 +18,8 @@ Ground-Truth-Based: Procedurally generates dynamic maps using AlgaeBloom (Gaussi
 Hyperparameter Optimization: Integrates the Optuna framework for systematic and efficient hyperparameter tuning.
 
 Comprehensive Evaluation: Measures performance using a suite of metrics, including Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² Score, to assess map reconstruction quality.
+
+# Acknowledgements
+This work was supervised by Prof. Adan Lopez-Santander at the University of Plymouth.
+
+The static map datasets and baseline for comparison are from the work of Barrionuevo, et al. (2024).
